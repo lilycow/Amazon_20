@@ -6,8 +6,8 @@
 * [ ] Addendum  
 
 **Other Additions:** 
-* [ ] Web scraping script
-- Verison 1 [OpenBudget]: LA City, LAPD 
+* [ ] Web scraping scripts
+  - Verison 1 [OpenBudget]: LA City, LAPD 
 
 # NY State 🏙
 * [ ] Two-pager: Budget  
