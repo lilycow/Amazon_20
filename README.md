@@ -8,7 +8,7 @@
 
 **Other Additions:** 
 * [ ] Web scraping scripts
-  - Verison OpenBudget: LA City, LAPD, LADOT
+  - OpenBudget: LA City, LAPD, LADOT
     - http://openbudget.lacity.org/#!/year/default
 
 # NY State 🏙
