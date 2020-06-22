@@ -1,8 +1,11 @@
 # Amazon Summer 2020 Internship
 
+# Current Questions
+1) 
+
 # Currently Working On
 **LA OpenBudget Script**  
-Example Applications
+*Current Applications*
 - LA City [Department]: FY20 by Department and Program; FY21 by Department and Program; Comparison of FY20, FY21 by Department and Program  
 - LAPD [Department]: FY20; FY21; Comparison  
 - LADOT [Department]: FY20; FY21; Comparison  
