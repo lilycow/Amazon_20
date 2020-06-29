@@ -8,9 +8,8 @@
 
 **Other Additions:** 
 * [ ] Web scraping scripts
-  - OpenBudget: LA City, LAPD, LADOT
-    - http://openbudget.lacity.org/#!/year/default
-  - PDFs: LA County, LADWP, LAWA, LAMTA
+  - OpenBudget: LA City, Tech Support, LAITA, LAPD, LADOT
+    http://openbudget.lacity.org/#!/year/default
 
 # NY State 🏙
 * [ ] Two-pager: Budget  
