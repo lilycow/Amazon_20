@@ -2,8 +2,8 @@
 
 # LA City & LA County
 *including LAPD, LADWP, LAWA, LAMTA, LADOT 🌇*
-* [ ] Two-pager: Budget  
-* [ ] Two-pager: High-Level Analysis  
+* [ ] Two-pager: Macro  
+* [ ] Two-pager: Dept Budgets
 * [ ] Addendum  
 
 **Other Additions:** 
@@ -12,8 +12,8 @@
     http://openbudget.lacity.org/#!/year/default
 
 # NY State 🏙
-* [ ] Two-pager: Budget  
-* [ ] Two-pager: High-Level Analysis  
+* [ ] Two-pager: Macro  
+* [ ] Two-pager: Dept Budgets
 * [ ] Addendum  
 
 **Other Additions:** 
