@@ -1,5 +1,3 @@
-# Amazon Summer 2020 Internship
-
 # LA City & LA County
 *including LAPD, LADWP, LAWA, LAMTA, LADOT 🌇*
 * [ ] Two-pager: Macro  
