@@ -1,3 +1,3 @@
 # LA City & LA County
 
-# NY State 🏙
+# NY State 
